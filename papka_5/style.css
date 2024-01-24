@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 2rem;
+    padding-left: 3rem;
+}
+
+h1 {
+    color:brown;
+}
